@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Prathibha — Code Beyond the Horizon</title>
+  <desc id="desc">A dark futuristic landscape with a glowing 3D grid, neon orbits, and a developer-inspired title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset=".55" stop-color="#11102b"/>
+      <stop offset="1" stop-color="#071b2a"/>
+    </linearGradient>
+    <linearGradient id="titleGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#c4b5fd"/>
+      <stop offset=".52" stop-color="#fff"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <linearGradient id="grid" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#67e8f9" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity=".72"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#7c3aed" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <clipPath id="floor">
+      <path d="M0 238Q600 188 1200 238V360H0Z"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <ellipse cx="600" cy="220" rx="410" ry="145" fill="url(#halo)" filter="url(#blur)">
+    <animate attributeName="opacity" values=".65;1;.65" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+  <g fill="#dbeafe">
+    <circle cx="111" cy="79" r="1.5"/><circle cx="243" cy="47" r="1"/>
+    <circle cx="1001" cy="71" r="1.4"/><circle cx="1082" cy="159" r="1"/>
+    <circle cx="915" cy="42" r="1"/><circle cx="318" cy="127" r="1.2"/>
+    <circle cx="770" cy="80" r="1.2"/><circle cx="51" cy="164" r="1"/>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <ellipse cx="600" cy="188" rx="370" ry="74" stroke="#8b5cf6" stroke-opacity=".34" transform="rotate(-9 600 188)"/>
+    <ellipse cx="600" cy="188" rx="300" ry="104" stroke="#67e8f9" stroke-opacity=".25" transform="rotate(12 600 188)"/>
+    <circle cx="258" cy="137" r="4" fill="#67e8f9" stroke="none">
+      <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="932" cy="219" r="3.5" fill="#c4b5fd" stroke="none">
+      <animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g clip-path="url(#floor)" fill="none" stroke="url(#grid)" stroke-width="1">
+    <path d="M600 200 0 360M600 200 120 360M600 200 240 360M600 200 360 360M600 200 480 360M600 200 600 360M600 200 720 360M600 200 840 360M600 200 960 360M600 200 1080 360M600 200 1200 360"/>
+    <path d="M0 246Q600 209 1200 246M0 262Q600 222 1200 262M0 283Q600 238 1200 283M0 310Q600 258 1200 310M0 344Q600 281 1200 344"/>
+  </g>
+  <path d="M0 239Q600 190 1200 239" fill="none" stroke="#67e8f9" stroke-opacity=".7"/>
+  <g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">
+    <text x="600" y="144" fill="#67e8f9" font-size="13" letter-spacing="6">ENGINEERING • INTELLIGENCE • CURIOSITY</text>
+    <text x="600" y="202" fill="url(#titleGlow)" font-size="56" font-weight="700" letter-spacing="2">CODE BEYOND THE HORIZON</text>
+    <text x="600" y="232" fill="#cbd5e1" font-size="13" letter-spacing="4">PRATHIBHA / SOFTWARE IN PROGRESS</text>
+  </g>
+</svg>

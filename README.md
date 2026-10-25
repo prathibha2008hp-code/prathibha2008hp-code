@@ -1,216 +1,88 @@
-<!-- ═══════════════════════════════════════════════════════
-     PRATHIBHA — ANIME COSMIC GITHUB PROFILE
-     Theme: Dreamy Anime • Midnight Purple • Neon Cyan
-════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="assets/anime-banner.png" width="100%" alt="Dreamy Anime Cosmic Background"/>
+<img src="assets/profile-header.svg" width="100%" alt="Animated futuristic purple and cyan developer profile banner for Prathibha"/>
 
 <br/>
 
-<a href="https://github.com/prathibha2008hp-code">
-<img src="https://img.shields.io/badge/PRATHIBHA-CSE%20STUDENT-c4b5fd?style=for-the-badge&labelColor=08051a"/>
-</a>
+### PRATHIBHA
+**Computer Science & Engineering Student · Software Developer · AI Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=550&lines=Somewhere+between+dreams+and+code...;Imagine+%E2%9C%A6+Create+%E2%9C%A6+Repeat;Building+my+own+digital+universe." alt="Animated introduction"/>
+<a href="https://github.com/prathibha2008hp-code">
+  <img src="https://img.shields.io/badge/GitHub-prathibha2008hp--code-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub profile"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=prathibha2008hp-code&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+Student;Software+Developer+in+the+Making;AI+Enthusiast+%7C+Curious+Problem+Solver;Building+practical+projects%2C+one+idea+at+a+time" alt="Typing animation introducing Prathibha"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="24%" valign="top">
+## About
+
+I'm **Prathibha**, a Computer Science & Engineering student at **Alva's Institute of Engineering & Technology** in Mangalore, India. I enjoy turning ideas into practical software, exploring how AI can make tools more useful, and learning by building.
+
+My focus is on growing strong software engineering fundamentals through hands-on work in **Python, Java, web development, and problem-solving**. My goal is to become an industry-ready software engineer by creating useful projects and continuously improving my craft.
+
+> **Curiosity in. Thoughtful software out.**
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://github.com/prathibha2008hp-code.png" width="150" alt="Prathibha's GitHub avatar"/>
-
-# Prathibha
-
-*Computer Science & Engineering Student*
-
-📍 Mangalore, India
-
-<a href="https://github.com/prathibha2008hp-code">
-<img src="https://img.shields.io/badge/GitHub-Profile-0b061b?style=for-the-badge&logo=github&logoColor=c4b5fd"/>
-</a>
-
-<br/><br/>
-
-*"Building meaningful things with code, creativity and curiosity."*
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,fastapi,vite,opencv,sqlite,git,github,vscode&theme=dark" alt="Python, Java, C, JavaScript, HTML, CSS, React, FastAPI, Vite, OpenCV, SQLite, Git, GitHub, and VS Code icons"/>
 
 </div>
 
----
-
-### ✦ Navigation
-
-- [About Me](#-about-me)
-- [Technical Skills](#-technical-universe)
-- [Projects](#-featured-projects)
-- [Learning Journey](#-learning-journey)
-- [My Goals](#-my-goals)
-- [Connect](#-connect)
-
-</td>
-
-<td width="52%" valign="top">
-
-## ✧ About Me
-
-I'm Prathibha, a Computer Science and Engineering student at Alva's Institute of Engineering & Technology, Mangalore.
-
-I enjoy software development, artificial intelligence, creative coding, and building real-world applications.
-
-My goal is to become an industry-ready software engineer by strengthening my programming fundamentals, solving problems, and contributing to open source.
+## GitHub Snapshot
 
 <div align="center">
 
-**Imagine ✦ Create ✦ Repeat**
+<a href="https://github.com/prathibha2008hp-code">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathibha2008hp-code&show_icons=true&hide_border=true&bg_color=080b18&title_color=c4b5fd&icon_color=67e8f9&text_color=e2e8f0&rank_icon=github" alt="Live GitHub profile statistics"/>
+</a>
+<a href="https://github.com/prathibha2008hp-code">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathibha2008hp-code&layout=compact&hide_border=true&bg_color=080b18&title_color=c4b5fd&text_color=e2e8f0" alt="Live GitHub language statistics"/>
+</a>
+
+<br/>
+
+### Contribution Activity
+
+<a href="https://github.com/prathibha2008hp-code">
+  <img width="96%" src="https://ghchart.rshah.org/8b5cf6/prathibha2008hp-code" alt="GitHub contribution activity chart"/>
+</a>
 
 </div>
 
----
+## Featured Projects
 
-## ✧ Technical Universe
+| Project | What it explores |
+| --- | --- |
+| [Movie Recommendation Engine](https://github.com/prathibha2008hp-code/movie-recommendation-engine) | A full-stack, content-based movie recommender using **Python, FastAPI, React, SQLite, TF-IDF, and cosine similarity**. |
+| [AI Resume Reviewer](https://github.com/prathibha2008hp-code/ai-resume-reviewer1) · [Live demo](https://ai-resume-reviewer1.vercel.app) | An AI-assisted resume review app with **PDF/DOCX parsing**, structured job-role feedback, and ATS suggestions. |
+| [Wiki Smart Assistant](https://github.com/prathibha2008hp-code/wiki-smart-assistant) | A **WikiClub Tech project at AIET** combining Wikipedia semantic search with grounded AI responses. |
+| [Water Scarcity IoT Monitor](https://github.com/prathibha2008hp-code/water-scarcity-iot-monitor) | An **ESP32- and Python-based water-level monitoring** project with SMS alerts. |
 
-**Languages**
+## Learning & Goals
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Programming languages"/>
+- Deepen my Python and Java foundations, data structures, and problem-solving skills.
+- Build practical full-stack applications and learn solid software engineering practices.
+- Explore AI through thoughtful, useful applications.
+- Grow into an industry-ready software engineer by learning through real projects.
 
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,vite,opencv&theme=dark" alt="Frameworks and libraries"/>
-
-**Tools & Databases**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,vercel&theme=dark" alt="Developer tools"/>
-
----
-
-## ✧ Featured Projects
-
-<a href="https://github.com/prathibha2008hp-code/movie-recommendation-engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathibha2008hp-code&repo=movie-recommendation-engine&theme=tokyonight&hide_border=true&bg_color=08051a&title_color=c4b5fd&icon_color=67e8f9" width="100%" alt="Movie Recommendation Engine"/>
-</a>
-
-**Movie Recommendation Engine**
-
-A content-based movie recommendation application using Python, FastAPI, React, TF-IDF and cosine similarity.
-
-<a href="https://movie-recommendation-engine-mwo1.onrender.com">🌐 Live Demo</a>
-
-<br/>
-
-<a href="https://github.com/prathibha2008hp-code/ai-resume-reviewer1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathibha2008hp-code&repo=ai-resume-reviewer1&theme=tokyonight&hide_border=true&bg_color=08051a&title_color=c4b5fd&icon_color=67e8f9" width="100%" alt="AI Resume Reviewer"/>
-</a>
-
-**AI Resume Reviewer**
-
-An AI-powered application for resume analysis, skill extraction, and ATS-oriented feedback.
-
-<a href="https://ai-resume-reviewer1.vercel.app">🌐 Live Demo</a>
-
-<br/>
-
-<a href="https://github.com/prathibha2008hp-code/wiki-smart-assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathibha2008hp-code&repo=wiki-smart-assistant&theme=tokyonight&hide_border=true&bg_color=08051a&title_color=c4b5fd&icon_color=67e8f9" width="100%" alt="Wiki Smart Assistant"/>
-</a>
-
-**Wiki Smart Assistant**
-
-A knowledge assistant developed through WikiClub Tech at AIET, Mangalore.
-
-<br/>
-
-<a href="https://github.com/prathibha2008hp-code/water-scarcity-iot-monitor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathibha2008hp-code&repo=water-scarcity-iot-monitor&theme=tokyonight&hide_border=true&bg_color=08051a&title_color=c4b5fd&icon_color=67e8f9" width="100%" alt="Water Scarcity IoT Monitor"/>
-</a>
-
-**Water Scarcity IoT Monitor**
-
-An IoT-based project focused on water-level monitoring and alerts.
-
-</td>
-
-<td width="24%" valign="top">
-
-## ✧ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=prathibha2008hp-code&show_icons=true&hide_border=true&bg_color=08051a&title_color=c4b5fd&icon_color=67e8f9&text_color=e9e7ff&rank_icon=github" width="100%" alt="GitHub statistics"/>
-
-<br/><br/>
-
-## ✧ Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathibha2008hp-code&layout=compact&hide_border=true&bg_color=08051a&title_color=c4b5fd&text_color=e9e7ff" width="100%" alt="Most used programming languages"/>
-
-<br/><br/>
-
-## ✧ Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=prathibha2008hp-code&theme=tokyonight&hide_border=true&background=08051a&ring=c4b5fd&fire=67e8f9&currStreakLabel=c4b5fd" width="100%" alt="GitHub contribution streak"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ✧ Learning Journey
-
-- Strengthening Python and Java fundamentals.
-- Practising DSA and problem-solving.
-- Learning full-stack development.
-- Exploring AI and automation.
-- Contributing to open source.
-- Building a strong project portfolio.
-
-</td>
-<td width="50%" valign="top">
-
-## ✧ My Goals
-
-- Become a strong software engineer.
-- Build useful and creative products.
-- Gain industry experience.
-- Contribute to open-source projects.
-- Secure software engineering internships.
-- Keep learning and growing.
-
-</td>
-</tr>
-</table>
-
----
+## Connect
 
 <div align="center">
 
-## 🌙 A Little Reminder
-
-*In a world full of noise, create something beautiful.*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=450&lines=Keep+creating.;Keep+growing.;Keep+shining." alt="Closing animation"/>
+The best way to find my work or get in touch is through **[GitHub](https://github.com/prathibha2008hp-code)**.
 
 <br/><br/>
 
-<a href="https://github.com/prathibha2008hp-code">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20UNIVERSE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="assets/profile-footer.svg" width="100%" alt="Futuristic purple and cyan developer-themed footer"/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,45:35106B,75:170033,100:030014" width="100%" alt="Cosmic footer"/>
-
-**Thanks for visiting my profile! ♡**
-
-<sub>Let's build something amazing together.</sub>
+**Build with curiosity. Ship with care. Keep learning.**
 
 </div>

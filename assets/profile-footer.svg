@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Keep building</title>
+  <desc id="desc">A glowing neon horizon above a perspective grid, matching Prathibha's profile banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#080b18"/>
+      <stop offset=".55" stop-color="#15102f"/>
+      <stop offset="1" stop-color="#071b2a"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8b5cf6"/>
+      <stop offset=".5" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#67e8f9" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="floor">
+      <path d="M0 92Q600 62 1200 92V180H0Z"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="180" rx="22" fill="url(#bg)"/>
+  <ellipse cx="600" cy="99" rx="430" ry="92" fill="url(#glow)">
+    <animate attributeName="opacity" values=".6;1;.6" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+  <g clip-path="url(#floor)" fill="none" stroke="#67e8f9" stroke-opacity=".42">
+    <path d="M600 68 0 180M600 68 150 180M600 68 300 180M600 68 450 180M600 68 600 180M600 68 750 180M600 68 900 180M600 68 1050 180M600 68 1200 180"/>
+    <path d="M0 98Q600 72 1200 98M0 112Q600 83 1200 112M0 131Q600 97 1200 131M0 154Q600 113 1200 154"/>
+  </g>
+  <path d="M0 92Q600 62 1200 92" fill="none" stroke="url(#neon)" stroke-width="2"/>
+  <g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">
+    <text x="600" y="54" fill="#e2e8f0" font-size="15" letter-spacing="5">STAY CURIOUS · KEEP BUILDING</text>
+  </g>
+</svg>
